@@ -1,5 +1,6 @@
 /*----------------------------------------------------------------
  *  Author:   K. Walsh
+ *  Editor:   Trishala Manandhar
  *  Email:    kwalsh@holycross.edu
  *  Written:  7/13/2015
  *  
