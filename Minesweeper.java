@@ -1,8 +1,9 @@
 /*----------------------------------------------------------------
  *  Author:   K. Walsh
+ *  Editor:   Trishala Manandhar
  *  Email:    kwalsh@holycross.edu
  *  Written:  7/13/2015
- *  Update:
+ *  Update:   12/7/2020
  *  
  *  A game of minesweeper. This class only really holds the
  *  main() fucntion. Most of the interesting stuff happens in
