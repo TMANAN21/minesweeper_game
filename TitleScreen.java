@@ -3,7 +3,7 @@
  *  Editor:   Trishala Manandhar 
  *  Email:    kwalsh@holycross.edu
  *  Written:  7/13/2015
- *  Update:
+ *  Update:   12/7/2020
  *  
  *  This class implements the initial "splash" title screen window.
  *
