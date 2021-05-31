@@ -3,7 +3,7 @@
  *  Editor:   Trishala Manandhar
  *  Email:    kwalsh@holycross.edu
  *  Written:  7/13/2015
- *  Updated:  11/30/2020
+ *  Updated:  12/7/2020
  *  
  *  Minesweeper game. This class implements the game window and most
  *  of the game logic.
