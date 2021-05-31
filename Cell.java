@@ -3,6 +3,7 @@
  *  Editor:   Trishala Manandhar
  *  Email:    kwalsh@holycross.edu
  *  Written:  7/13/2015
+ *  Updated:  11/25/2020
  *  
  *  Each Cell object manages information about and draws a
  *  single "cell" of the game grid. 
