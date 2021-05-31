@@ -3,6 +3,7 @@
  *  Editor:   Trishala Manandhar
  *  Email:    kwalsh@holycross.edu
  *  Written:  7/13/2015
+ *  Update:   12/7/2020
  *  
  *  StatusBox displays game statistics in a box on the screen.
  *----------------------------------------------------------------*/
