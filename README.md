@@ -13,3 +13,8 @@ TitleScreen.java - A class that manages the title "splash" screen. Like Game.jav
 
 Game.java and Cell.java - The Cell.java creates the grid and the interface of the game. Then, the game.java deploy mines, puts numbers under the tiles etc. More information can be found within the files. 
 
+The following is the link to a preview video for the Minesweeper game:
+
+https://youtu.be/yTdAAuqsQ3U
+
+
